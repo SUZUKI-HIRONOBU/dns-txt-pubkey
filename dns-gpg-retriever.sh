@@ -6,6 +6,9 @@
 #
 # By Hironobu Suzuki 
 # https://github.com/SUZUKI-HIRONOBU/dns-txt-pubkey/
+#
+# dns-gpg-retriever.sh Copyright (C) 2025  Hironobu Suzuki
+# GPLv3 or later.
 
 echo '-----BEGIN PGP PUBLIC KEY BLOCK-----'
 echo -n 'Version: GnuPG v2'

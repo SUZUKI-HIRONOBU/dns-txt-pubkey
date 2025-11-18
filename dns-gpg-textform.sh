@@ -8,6 +8,9 @@
 #
 # By Hironobu Suzuki
 # https://github.com/SUZUKI-HIRONOBU/dns-txt-pubkey/
+#
+# dns-gpg-textform.sh Copyright (C) 2025  Hironobu Suzuki
+# GPLv3 or later.
 
 cat "$*"  | sed -z -e 's/\n/ /g'
 
